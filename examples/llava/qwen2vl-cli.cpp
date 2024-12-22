@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "arg.h"
 #include "base64.hpp"
 #include "log.h"

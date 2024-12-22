@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // ref: https://github.com/ggerganov/llama.cpp/issues/4952#issuecomment-1892864763
 
 #include <cstdio>

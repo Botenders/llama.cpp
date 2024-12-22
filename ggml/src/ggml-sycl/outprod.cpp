@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include <sycl/sycl.hpp>
 #include <oneapi/mkl.hpp>
 #include "outprod.hpp"

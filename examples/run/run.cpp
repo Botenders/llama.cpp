@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #if defined(_WIN32)
 #    include <windows.h>
 #else

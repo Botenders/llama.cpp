@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "llama.h"
 #include "common.h"
 #include "unicode.h"

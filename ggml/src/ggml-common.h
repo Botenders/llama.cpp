@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef GGML_COMMON_DECL
 
 #if defined(GGML_COMMON_DECL_C)

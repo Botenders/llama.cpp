@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 import json, subprocess, sys, os
 
 assert len(sys.argv) >= 2

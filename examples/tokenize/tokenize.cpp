@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "common.h"
 //#include "log.h" // TODO: start using log.h
 #include "llama.h"

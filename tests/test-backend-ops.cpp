@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // This file defines tests for various GGML ops and backends.
 // For the forward pass it asserts that the results of multiple backends computing the same GGML ops are consistent.
 // For the backward pass it asserts that the gradients from backpropagation are consistent

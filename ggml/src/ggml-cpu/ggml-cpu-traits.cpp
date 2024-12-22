@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "ggml-cpu-traits.h"
 
 #include "ggml-backend-impl.h"

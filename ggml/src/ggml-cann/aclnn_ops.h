@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef CANN_ACLNN_OPS
 #define CANN_ACLNN_OPS
 

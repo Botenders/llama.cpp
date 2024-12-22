@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 from .constants import *
 from .lazy import *
 from .gguf_reader import *

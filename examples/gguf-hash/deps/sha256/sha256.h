@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 /* Sha256.h -- SHA-256 Hash
 2010-06-11 : Igor Pavlov : Public domain */
 

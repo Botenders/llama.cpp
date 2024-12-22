@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 # coding=utf-8
 # Copyright 2024 Google AI and The HuggingFace Team. All rights reserved.
 #

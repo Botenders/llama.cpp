@@ -1,4 +1,8 @@
 /*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
+/*
  * Copyright (c) 2023-2024 The ggml authors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // generated with scripts/gen-unicode-data.py
 
 #include "unicode-data.h"

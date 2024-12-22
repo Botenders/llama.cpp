@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // Note: porting this file to C++ is a work in progress
 
 #ifdef _WIN32

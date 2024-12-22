@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // This file contains functionality for training models using GGML.
 // It is not strictly needed vs. just vanilla GGML but it provides a more high-level interface for common needs such as datasets.
 // At the bottom of this file especially there are relatively high-level functions that are suitable use or adaptation in user code.

@@ -1,4 +1,8 @@
 /*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
+/*
 SHA-1 in C
 By Steve Reid <steve@edmweb.com>
 100% Public Domain

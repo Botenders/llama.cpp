@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef GGML_METAL_IMPL
 #define GGML_METAL_IMPL
 

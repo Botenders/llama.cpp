@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 from __future__ import annotations
 from abc import ABC, abstractmethod
 from typing import Any, Callable, Sequence

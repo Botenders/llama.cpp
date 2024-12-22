@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "norm.hpp"
 
 template <bool vals_smem, int ncols_template, int block_size_template>

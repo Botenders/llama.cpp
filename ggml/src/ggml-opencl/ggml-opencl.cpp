@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #define CL_TARGET_OPENCL_VERSION 220
 #define CL_USE_DEPRECATED_OPENCL_1_2_APIS
 

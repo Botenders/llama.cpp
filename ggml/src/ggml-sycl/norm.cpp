@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "norm.hpp"
 
 static void norm_f32(const float* x, float* dst, const int ncols, const float eps,

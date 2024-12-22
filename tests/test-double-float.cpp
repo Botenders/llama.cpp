@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // These tests may take a long time!
 // They are to prove that conversion from double to float of various functions in ggml.c doesn't affect the result.
 // This is done by checking all finite (non-NaN, non-infinite) floats.

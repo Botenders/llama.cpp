@@ -50,7 +50,7 @@ function(ggml_add_cpu_backend_variant_impl tag_name)
 
             target_link_libraries(${GGML_CPU_NAME} PRIVATE OpenMP::OpenMP_C OpenMP::OpenMP_CXX)
         else()
-            message(WARNING "OpenMP not found")
+            message("OpenMP not found")
         endif()
     endif()
 

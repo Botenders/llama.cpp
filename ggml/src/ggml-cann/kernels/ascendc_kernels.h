@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef ASCENDC_KERNELS_H
 #define ASCENDC_KERNELS_H
 

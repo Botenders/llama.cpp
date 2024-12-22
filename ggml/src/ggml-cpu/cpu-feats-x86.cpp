@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "ggml-backend-impl.h"
 
 #if defined(__x86_64__) || (defined(_MSC_VER) && defined(_M_AMD64))

@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // Unit tests for quantization specific functions - quantize, dequantize and dot product
 
 #include "ggml.h"

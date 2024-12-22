@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 
 #if defined(__GNUC__)
 #pragma GCC diagnostic ignored "-Wpedantic"

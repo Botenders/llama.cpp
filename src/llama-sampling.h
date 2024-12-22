@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #pragma once
 
 // TODO: rename llama-sampling.h/.cpp to llama-sampler.h/.cpp ?

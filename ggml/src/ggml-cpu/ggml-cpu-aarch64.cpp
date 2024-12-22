@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #define GGML_COMMON_IMPL_CPP
 #define GGML_COMMON_DECL_CPP
 #include "ggml-common.h"

@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "mmvq.hpp"
 #include "vecdotq.hpp"
 #include <cassert>

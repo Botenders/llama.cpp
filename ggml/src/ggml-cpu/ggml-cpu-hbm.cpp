@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifdef GGML_USE_CPU_HBM
 
 #include "ggml-backend.h"

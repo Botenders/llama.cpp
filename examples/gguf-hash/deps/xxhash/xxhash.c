@@ -1,4 +1,8 @@
 /*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
+/*
  * xxHash - Extremely Fast Hash algorithm
  * Copyright (C) 2012-2023 Yann Collet
  *

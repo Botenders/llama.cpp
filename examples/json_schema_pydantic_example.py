@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 # Usage:
 #! ./llama-server -m some-model.gguf &
 #! pip install pydantic

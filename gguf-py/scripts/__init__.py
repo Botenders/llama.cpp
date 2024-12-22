@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 # pyright: reportUnusedImport=false
 
 from .gguf_convert_endian import main as gguf_convert_endian_entrypoint

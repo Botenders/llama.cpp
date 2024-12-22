@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include "convert.hpp"
 #include "dmmv.hpp"
 #include "dequantize.hpp"

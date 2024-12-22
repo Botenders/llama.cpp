@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 //
 // MIT license
 // Copyright (C) 2024 Intel Corporation

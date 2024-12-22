@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 # This file left for compatibility. If you want to use the GGUF API from Python
 # then don't import gguf/gguf.py directly. If you're looking for examples, see the
 # examples/ directory for gguf-py

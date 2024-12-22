@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // Note: this description is outdated
 //
 // An interface allowing to compute ggml_cgraph with Metal

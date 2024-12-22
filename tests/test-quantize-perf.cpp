@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // Benchmark quantization specific functions on synthetic data
 
 #include "ggml.h"

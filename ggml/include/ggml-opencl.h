@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef GGML_OPENCL_H
 #define GGML_OPENCL_H
 

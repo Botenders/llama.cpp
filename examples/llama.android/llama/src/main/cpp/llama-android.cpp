@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #include <android/log.h>
 #include <jni.h>
 #include <iomanip>

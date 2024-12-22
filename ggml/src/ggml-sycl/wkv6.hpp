@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 #ifndef GGML_SYCL_WKV6_HPP
 #define GGML_SYCL_WKV6_HPP
 

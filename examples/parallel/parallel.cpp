@@ -1,3 +1,7 @@
+/*
+ * Copyright (C) 2024, Botenders, Inc. All rights reserved.
+ */
+
 // A basic application simulating a server with multiple clients.
 // The clients submit requests to the server and they are processed in parallel.
 
